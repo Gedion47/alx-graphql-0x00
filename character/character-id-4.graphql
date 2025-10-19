@@ -1,0 +1,8 @@
+query GetFile {
+  file(id: 1) {
+    id
+    name
+    hobby
+    status
+  }
+}
